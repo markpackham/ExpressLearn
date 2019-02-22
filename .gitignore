@@ -1,0 +1,11 @@
+node_modules
+
+# SASS #
+##########
+.sass-cache
+
+# IDE #
+##########
+.idea
+.vscode
+MyProject.komodoproject
